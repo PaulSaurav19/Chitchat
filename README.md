@@ -13,9 +13,6 @@ The Chitchat App is a real-time chat application built using the MERN stack. It 
 - User Registration: Users can create new accounts by providing their name, email, and password.
 - User Authentication: Registered users can log in using their email and password.
 - Real-time Messaging: Users can send and receive messages instantly, creating real-time conversations.
-- Online Status: Users can see the online status of other users.
-- Notifications: Users receive notifications for new messages when they are not actively using the app.
-- Message History: Users can view their chat history and scroll through previous messages.
 - User Profiles: Users can view and update their profiles, including their profile picture and status.
 
 ## Installation
